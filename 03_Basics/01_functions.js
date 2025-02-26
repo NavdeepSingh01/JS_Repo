@@ -6,9 +6,9 @@
 //     console.log("S");
 //     console.log("H");
 // }
-// console.log(sayMyName());
+//sayMyName();
 function addTwoNumber(number1,number2){
-    return number1+number2
+    return number1+number2  
 }
 const result=addTwoNumber(3,5);
 console.log(result);
